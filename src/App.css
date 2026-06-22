@@ -1,0 +1,11 @@
+{
+  magin: 0px;
+}
+
+div {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
